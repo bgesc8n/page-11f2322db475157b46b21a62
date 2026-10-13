@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "d43198ec777bfa991ff059c0",
+  "owner": "bgesc8n",
+  "repo": "page-11f2322db475157b46b21a62",
+  "title": "clash代理",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "11f2322db475157b46b21a62",
+      "a": "clash代理",
+      "b": "",
+      "entity": "clash代理",
+      "brand": "clash代理",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ca0c8e87aa7acd47385d19ca3da0334549c95c605de8a4818537d01347d2e547",
+      "content": {
+        "keyword1": "clash代理",
+        "keyword2": "",
+        "primary_entity": "clash代理",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clash代理提供专业VPN梯子网络加速服务，支持客户端下载，多种套餐选择，官网直达。",
+          "AI_DESCRIPTION": "clash代理提供专业VPN梯子网络加速服务，支持客户端下载，多种套餐选择，官网直达。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --primary-purple: #6b46c1;\n            --light-gray: #f8f9fa;\n            --dark-gray: #333;\n        }\n        body {\n            font-family: 'Helvetica Neue', Arial, sans-serif;\n            line-height: 1.6;\n            color: var(--dark-gray);\n            background-color: var(--light-gray);\n            margin: 0;\n            padding: 0;\n        }\n        .container {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        header {\n            background-color: white;\n            padding: 20px 0;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n            position: sticky;\n            top: 0;\n            z-index: 10;\n        }\n        nav {\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: bold;\n            color: var(--primary-purple);\n        }\n        .nav-links {\n            display: flex;\n            gap: 20px;\n        }\n        .nav-links a {\n            text-decoration: none;\n            color: var(--dark-gray);\n            font-weight: 500;\n        }\n        .hero {\n            background: linear-gradient(135deg, #f3e8ff, white);\n            padding: 60px 20px;\n            text-align: center;\n            border-radius: 12px;\n            margin-bottom: 40px;\n        }\n        .hero h1 {\n            font-size: 2.5rem;\n            color: var(--primary-purple);\n            margin-bottom: 20px;\n        }\n        .hero p {\n            font-size: 1.2rem;\n            max-width: 600px;\n            margin: 0 auto;\n        }\n        .btn {\n            display: inline-block;\n            background-color: var(--primary-purple);\n            color: white;\n            padding: 12px 24px;\n            border-radius: 6px;\n            text-decoration: none;\n            font-weight: bold;\n            margin-top: 20px;\n        }\n        .section {\n            padding: 40px 0;\n        }\n        .section h2 {\n            font-size: 2rem;\n            margin-bottom: 20px;\n            color: var(--primary-purple);\n        }\n        .intro {\n            background-color: white;\n            padding: 30px;\n            border-radius: 12px;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n        }\n        .features-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n            gap: 20px;\n        }\n        .feature-card {\n            background: white;\n            padding: 20px;\n            border-radius: 10px;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.1);\n        }\n        .plans {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n            gap: 20px;\n        }\n        .plan {\n            background: white;\n            padding: 30px;\n            border-radius: 12px;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.1);\n            transition: transform 0.3s;\n        }\n        .plan.featured {\n            border: 3px solid var(--primary-purple);\n            position: relative;\n        }\n        .plan.featured::before {\n            content: \"推荐\";\n            position: absolute;\n            top: -12px;\n            right: 20px;\n            background: var(--primary-purple);\n            color: white;\n            padding: 4px 12px;\n            border-radius: 20px;\n            font-size: 0.9rem;\n        }\n        .plan h3 {\n            font-size: 1.5rem;\n            margin-bottom: 10px;\n        }\n        .plan .price {\n            font-size: 2rem;\n            color: var(--primary-purple);\n            font-weight: bold;\n            margin: 10px 0;\n        }\n        .plan ul {\n            list-style: none;\n            padding: 0;\n        }\n        .plan ul li {\n            margin: 10px 0;\n            padding-left: 20px;\n            position: relative;\n        }\n        .plan ul li:before {\n            content: \"✓\";\n            position: absolute;\n            left: 0;\n            color: var(--primary-purple);\n        }\n        .faq {\n            background: white;\n            padding: 20px;\n            border-radius: 12px;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n        }\n        details {\n            margin-bottom: 15px;\n            border-bottom: 1px solid #eee;\n            padding-bottom: 15px;\n        }\n        summary {\n            font-weight: bold;\n            cursor: pointer;\n            font-size: 1.1rem;\n            color: var(--primary-purple);\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        footer {\n            background-color: #333;\n            color: white;\n            padding: 40px 20px;\n            text-align: center;\n        }\n        .footer-links {\n            display: flex;\n            justify-content: center;\n            gap: 30px;\n            margin-bottom: 20px;\n        }\n        .footer-links a {\n            color: white;\n            text-decoration: none;\n        }\n        @media (max-width: 768px) {\n            .hero h1 {\n                font-size: 2rem;\n            }\n            .nav-links {\n                display: none;\n            }\n            .container {\n                padding: 15px;\n            }\n        }\n    </style>\n\n\n    <header>\n        <div class=\"container\">\n            <nav>\n                <div class=\"logo\">clash代理</div>\n                <div class=\"nav-links\">\n                    <a href=\"#plans\">套餐</a>\n                    <a href=\"#faq\">FAQ</a>\n                    <a href=\"#download\">下载</a>\n                </div>\n            </nav>\n        </div>\n    </header>\n    <main>\n        <section class=\"hero\">\n            <h1>clash代理</h1>\n            <p>专业VPN梯子网络加速器，稳定高速，轻松解锁全球内容</p>\n            <a href=\"#plans\" class=\"btn\">查看套餐</a>\n        </section>\n        <section class=\"section intro\">\n            <h2>品牌简介</h2>\n            <p>clash代理致力于提供优质的VPN服务，帮助用户实现高效的网络加速和隐私保护。我们支持多种设备接入，提供稳定节点池，确保您的在线体验顺畅无阻。</p>\n            <p>无论是日常浏览还是跨境访问，clash代理都能为您带来最佳性能。</p>\n        </section>\n        <section class=\"section\">\n            <h2>使用场景</h2>\n            <div class=\"features-grid\">\n                <div class=\"feature-card\">\n                    <h3>海外访问</h3>\n                    <p>解锁全球网站和流媒体平台，畅享国际内容。</p>\n                </div>\n                <div class=\"feature-card\">\n                    <h3>游戏加速</h3>\n                    <p>IPLC专线优化游戏延迟，竞技场畅玩无忧。</p>\n                </div>\n                <div class=\"feature-card\">\n                    <h3>办公安全</h3>\n                    <p>加密连接保护企业数据安全。</p>\n                </div>\n            </div>\n        </section>\n        <section class=\"section\">\n            <h2>操作说明</h2>\n            <p>1. 访问官网下载官方客户端。</p>\n            <p>2. 导入您的订阅链接。</p>\n            <p>3. 选择节点进行连接。</p>\n            <p>4. 享受高速加速！</p>\n            <a href=\"#download\" class=\"btn\">立即下载</a>\n        </section>\n        <section class=\"section\" id=\"plans\">\n            <h2>套餐对比</h2>\n            <div class=\"plans\">\n                <div class=\"plan\">\n                    <h3>基础版</h3>\n                    <div class=\"price\">¥15/月</div>\n                    <p class=\"annual\">按年付仅需 ¥150/年</p>\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <div class=\"plan featured\">\n                    <h3>旗舰版</h3>\n                    <div class=\"price\">¥35/月</div>\n                    <p class=\"annual\">按年付仅需 ¥350/年</p>\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                <div class=\"plan\">\n                    <h3>团队版</h3>\n                    <div class=\"price\">¥85/月</div>\n                    <p class=\"annual\">按年付仅需 ¥850/年</p>\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n        <section class=\"section\" id=\"download\">\n            <h2>客户端下载</h2>\n            <p>立即下载clash代理官方客户端，开启您的加速之旅。</p>\n            <a href=\"#\" class=\"btn\">下载客户端</a>\n            <p>支持Windows、Mac、Android、iOS等多平台。</p>\n        </section>\n        <section class=\"section faq\" id=\"faq\">\n            <h2>常见问题 FAQ</h2>\n            <details>\n                <summary>什么是clash代理？</summary>\n                <p>clash代理是一种专业的VPN加速服务，提供高效的网络代理和梯子功能，帮助用户突破地域限制并加速网络访问。</p>\n            </details>\n            <details>\n                <summary>如何选择套餐？</summary>\n                <p>根据您的设备数量和需求选择基础版、旗舰版或团队版。旗舰版适合需要流媒体解锁的用户。</p>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <p>支持Windows、Mac、Android、iOS等多种主流设备，同时在线数量根据套餐而定。</p>\n            </details>\n            <details>\n                <summary>流量限制如何？</summary>\n                <p>不同套餐有不同的月度流量限额，超出后可能限速或需升级。</p>\n            </details>\n            <details>\n                <summary>如何下载客户端？</summary>\n                <p>访问官网下载官方客户端，遵循安装向导完成配置。</p>\n            </details>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <div class=\"container\">\n            <div class=\"footer-links\">\n                <a href=\"#plans\">套餐详情</a>\n                <a href=\"#faq\">FAQ</a>\n                <a href=\"#download\">客户端下载</a>\n            </div>\n            <p>© 2024 clash代理. 所有权利保留. 友情链接: <a href=\"#\">VPN资源</a></p>\n            <p>站点地图: <a href=\"#plans\">套餐</a> | <a href=\"#faq\">FAQ</a></p>\n            <p>广告位招租 | 商务合作: <a href=\"#\">联系我们</a></p>\n        </div>\n    </footer>\n\n",
+          "hash": "1ff834df018d077aa27b6409c9c632ce9a8b24826d11ae85bce09195a2826ec5",
+          "seo": {
+            "title": "clash代理 - 专业VPN梯子网络加速器 | 客户端下载 & 官网",
+            "keywords": "clash代理,vpn梯子,加速器,客户端下载,官网",
+            "description": "clash代理提供专业VPN梯子网络加速服务，支持客户端下载，多种套餐选择，官网直达。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "go30a.cn",
+    "host": "p-aca40b5925.go30a.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "e5d0c0a62770e7a96e16094e120aff62b3fc403ee195bfc950e6988f7a8a131f",
+    "sitemap.xml": "ba55e24d53e9c4bbd3f60401fcbceb021415e2aa90bfb3eaf1497aabd3e63701",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4c009e5473800c43597df768d0564b0582a86391a94a36bc0ed2c657a1582b4c",
+    "robots.txt": "a936835afdfc8c5163344d2822482ac014d1516e2c0eae1805e45adbccfa782c",
+    "4f1d6c989aeb8c5ff946a06055f432d7.txt": "7309e63226bd83ae283655a5f8c4e0b6ae6381939787129e92fb71ce0e43c982"
+  },
+  "revision": "7672c967f60bfe3681b06ac1ef49eaaf325db00b63fc2a9db8df4203c12468cc"
+}
